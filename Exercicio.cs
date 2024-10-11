@@ -1,7 +1,7 @@
 ﻿using System;
 using Arrays;
 
-     class Exercio1
+     class Exercicio1
     {
     static int somavetor(int[] vetor)
     {
